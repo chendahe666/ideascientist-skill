@@ -6,7 +6,7 @@
 
 ## 安装与调用
 
-下载本仓库，将 `skills/ideascientist` 文件夹复制到你的 Codex 用户技能目录：
+优先下载[可安装的 skill ZIP](https://github.com/chendahe666/ideascientist-skill/raw/refs/heads/main/packages/ideascientist-v0.1.0.zip)，解压后将 `ideascientist` 文件夹复制到你的 Codex 用户技能目录。也可以下载整个仓库，复制其中的 `skills/ideascientist`：
 
 - Windows：`%USERPROFILE%\.codex\skills\ideascientist`
 - macOS / Linux：`~/.codex/skills/ideascientist`
