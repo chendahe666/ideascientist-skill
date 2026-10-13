@@ -1,0 +1,4 @@
+interface:
+  display_name: "IdeaScientist"
+  short_description: "Grounded research ideas, source code and reproducible checks"
+  default_prompt: "Use $ideascientist to turn my research problem and challenge into a sourced proposal and a minimal falsifiable experiment."

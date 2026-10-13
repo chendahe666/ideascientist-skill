@@ -1,0 +1,44 @@
+{
+  "verified_on": "2026-10-13",
+  "upstream_repository": "jiarui-liu/IdeaScientist",
+  "upstream_commit": "82a98a08772eab08d11fd097445afa4a8eaaa5b3",
+  "paper_version": "2610.04074v1",
+  "files": [
+    {
+      "path": "assets/sources/upstream-code.zip",
+      "url": "https://codeload.github.com/jiarui-liu/IdeaScientist/zip/82a98a08772eab08d11fd097445afa4a8eaaa5b3",
+      "sha256": "99b6b78734d96317154cbe9c1c0f48bbdce898b8cade425c9932b0454aca0921",
+      "size_bytes": 358451,
+      "license": "CC-BY-NC-4.0"
+    },
+    {
+      "path": "assets/sources/paper-2610.04074v1.pdf",
+      "url": "https://arxiv.org/pdf/2610.04074v1",
+      "sha256": "47f371a693fba8eaef1334aa694c450a93c00c5f3266f1ce7fae7c1dd93cf22a",
+      "size_bytes": 987327,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "assets/sources/dataset-card.md",
+      "url": "https://huggingface.co/datasets/Jerry999/SvalbardIdeaVault/raw/64ab36be959afab06066f8c1e7ea292dba9362e5/README.md",
+      "sha256": "7f14eee8d7ac4d4b195d21ccf5cecf03b0abda0da8b765dd9754a6fca9a2b900",
+      "size_bytes": 3593,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "assets/sources/upstream-README.md",
+      "url": "https://github.com/jiarui-liu/IdeaScientist/blob/82a98a08772eab08d11fd097445afa4a8eaaa5b3/README.md",
+      "sha256": "714ddc21a6af296be25a59a4e70789c0a1d574086389cdeffebf8276db493e0b",
+      "size_bytes": 17757,
+      "license": "CC-BY-NC-4.0"
+    },
+    {
+      "path": "assets/sources/upstream-LICENSE",
+      "url": "https://github.com/jiarui-liu/IdeaScientist/blob/82a98a08772eab08d11fd097445afa4a8eaaa5b3/LICENSE",
+      "sha256": "6c239f2fb162fe71782d366a63161f694a624c4e0ecc21154c662a37c8fb490a",
+      "size_bytes": 1096,
+      "license": "CC-BY-NC-4.0"
+    }
+  ],
+  "dataset_revision": "64ab36be959afab06066f8c1e7ea292dba9362e5"
+}
