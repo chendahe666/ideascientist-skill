@@ -5,3 +5,4 @@
 *.yaml text eol=lf
 *.pdf binary
 *.zip binary
+skills/ideascientist/assets/sources/** -text
